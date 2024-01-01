@@ -1,0 +1,100 @@
+{
+    "status": true,
+    "title": "Berhasil cek kouta",
+    "expired": "2024-02-13",
+    "dukcapil": "Sudah",
+    "langganan": "1 Tahun 3 Bulan",
+    "gstatus": "4G",
+    "data": [
+        [
+            {
+                "packages": {
+                    "name": "Xtra Combo Flex XXXL",
+                    "expDate": "2024-01-10T23:59:59"
+                },
+                "benefits": [
+                    {
+                        "type": "DATA",
+                        "bname": "Kuota Utama",
+                        "quota": "60 GB",
+                        "remaining": "60 GB"
+                    },
+                    {
+                        "type": "DATA",
+                        "bname": "Kuota Area-5",
+                        "quota": "30 GB",
+                        "remaining": "12 GB"
+                    },
+                    {
+                        "type": "DATA",
+                        "bname": "Kuota Area-4",
+                        "quota": "20 GB",
+                        "remaining": "0"
+                    },
+                    {
+                        "type": "DATA",
+                        "bname": "Kuota Area-3",
+                        "quota": "20 GB",
+                        "remaining": "0"
+                    },
+                    {
+                        "type": "DATA",
+                        "bname": "Kuota Area-2",
+                        "quota": "10 GB",
+                        "remaining": "0"
+                    },
+                    {
+                        "type": "DATA",
+                        "bname": "Kuota Area-1",
+                        "quota": "10 GB",
+                        "remaining": "0"
+                    },
+                    {
+                        "type": "VOICE",
+                        "bname": "Nelp ke Semua Operator",
+                        "quota": "5 Minutes",
+                        "remaining": "5 Minutes"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "packages": {
+                    "name": "Bonus Kuota Harian",
+                    "expDate": "2025-06-07T23:59:59"
+                },
+                "benefits": [
+                    {
+                        "type": "DATA",
+                        "bname": "Apps",
+                        "quota": "100 MB",
+                        "remaining": "100 MB"
+                    },
+                    {
+                        "type": "DATA",
+                        "bname": "Meeting dan Belajar Online",
+                        "quota": "900 MB",
+                        "remaining": "0"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "packages": {
+                    "name": "Vidio 30D",
+                    "expDate": "2024-01-10T23:59:59"
+                },
+                "benefits": [
+                    {
+                        "type": "DATA",
+                        "bname": "Vidio",
+                        "quota": "1 KB",
+                        "remaining": "0"
+                    }
+                ]
+            }
+        ]
+    ]
+}
